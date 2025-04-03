@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
           body: Center(
             child: Padding(
               padding: const EdgeInsets.all(8.0),
-              child: SingleChildScrollView(  // Sử dụng SingleChildScrollView để cuộn toàn bộ nội dung
+              child: SingleChildScrollView(
                 child: Column(
                   children: [
                     Stack(
