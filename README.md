@@ -1,6 +1,6 @@
-# untitled4
+# Flutter Widget Project
 
-A new Flutter project.
+A Flutter project demonstrating various widget layouts and compositions.
 
 ## Getting Started
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Documentation
+
+### Payment Integration
+- [Stripe Threshold Explanation (Vietnamese)](docs/STRIPE_THRESHOLD.md) - Giải thích về ngưỡng (threshold) trong Stripe
+- [Stripe Threshold Explanation (English)](docs/STRIPE_THRESHOLD_EN.md) - Understanding thresholds in Stripe payment system
